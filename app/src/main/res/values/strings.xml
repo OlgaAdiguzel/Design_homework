@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MySecond</string>
+    <string name="new_text">new_text</string>
+    <string name="random">random</string>
+    <string name="next_activity">next_activity</string>
+    <string name="Hello">Hello</string>
+    <string name="Goodbuy">Goodbuy</string>
+    <string name="Test_Application">Test Application</string>
+    <string name="Home_Work">Home Work</string>
+
+</resources>
